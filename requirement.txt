@@ -1,0 +1,15 @@
+PyMySQL==1.0.2
+psycopg2-binary==2.8.6
+paramiko==2.7.2
+oss2=2.15.0
+arrow=1.0.3
+aliyun-python-sdk-bssopenapi==1.6.8
+aliyun-python-sdk-core==2.13.36
+aliyun-python-sdk-ecs==4.23.10
+aliyun-python-sdk-kms==2.15.0
+aliyun-python-sdk-nas==3.10.0
+aliyun-python-sdk-ons==3.1.7
+aliyun-python-sdk-r-kvstore==2.16.0
+aliyun-python-sdk-rds==2.5.10
+huaweicloud-sdk-python=1.0.28
+
