@@ -3,6 +3,7 @@ psycopg2-binary==2.8.6
 paramiko==2.7.2
 oss2=2.15.0
 arrow=1.0.3
+six==1.16.0
 aliyun-python-sdk-bssopenapi==1.6.8
 aliyun-python-sdk-core==2.13.36
 aliyun-python-sdk-ecs==4.23.10
